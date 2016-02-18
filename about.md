@@ -4,13 +4,13 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi. I'm Matt. I'm a software engineer with a whole lotta experience in a whole bunch'a industries.  I'm currently the VP of Product at [Leverege](http://www.leverege.com)
 </p>
 
 
 * [Twitter](http://twitter.com/mquirion)
 * [LinkedIn](https://www.linkedin.com/in/quirion)
-* [VP, Product @ Leverege](http://www.leverege.com)
+* [Work @ Leverege](http://www.leverege.com)
 
 
 
