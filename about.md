@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hi. I'm Matt. I'm a software engineer with a whole lotta experience in a whole bunch'a industries.  I'm currently the VP of Product at [Leverege](http://www.leverege.com)
+  Hi. I'm Matt. I'm a software engineer with a whole lotta experience in a whole bunch'a industries.  I'm currently the VP of Product at Leverege, building solutions for the Internet of Things.
 </p>
 
 
