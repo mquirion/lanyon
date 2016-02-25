@@ -6,10 +6,10 @@ relative_permalinks: false
 
 # Setup
 title:               'Ad Infinitum'
-tagline:             'Tech & Biz thoughts by Matt Quirion'
+tagline:             'Tech & Biz thoughts when they happen for as long as they do so.'
 description:         ''
 url:                 http://adinfinitum.online
-baseurl:             ''
+baseurl:             'adinfinitum.online/'
 paginate:            5
 
 # About/contact
